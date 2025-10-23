@@ -36,7 +36,7 @@ python news_scraper.py
 ## Output
 * A file named `top_headlines.txt` containing the scraped headlines, one per line.
 
-## 🧠 Troubleshooting Highlights
+## Troubleshooting Highlights
 * Resolved `ModuleNotFoundError` by switching from  Python 3.12 to system Python 3.11  
 * Installed missing packages and verified interpreter paths  
 * Used PowerShell to run the script with the correct interpreter  
