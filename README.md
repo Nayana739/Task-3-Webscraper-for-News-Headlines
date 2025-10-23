@@ -1,9 +1,8 @@
 # Web Scraper for News Headlines
 
-## Objective
 Automate the collection of top news headlines from a public website and save them to a `.txt` file using Python.
 
-## Tools & Technologies
+## Requirements
 * **Python 3.11**
 * [`requests`](https://pypi.org/project/requests/) – for fetching HTML content  
 * [`beautifulsoup4`](https://pypi.org/project/beautifulsoup4/) – for parsing and extracting headlines  
